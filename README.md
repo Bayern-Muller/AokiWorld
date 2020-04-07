@@ -1,4 +1,4 @@
-![Minecraft logo](https://logos-download.com/wp-content/uploads/2016/03/Minecraft_logo.png)
+![Minecraft logo](https://github.com/729007894/AokiWorld/raw/master/Minecraft_logo.png)
 ## 嗨！这里是青木世界（AokiWorld）多元服务器构建页面。
 
 
